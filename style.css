@@ -1,0 +1,16 @@
+#title {
+  margin-top: 2rem;
+  text-align: center;
+}
+#description {
+  text-align: center;
+}
+#result {
+  margin-top: 3rem;
+  text-align: center;
+  font-size: x-large;
+}
+.Independence {
+  text-shadow: 2px 0 #000080, -2px 0 #000080, 0 2px #000080, 0 -2px #000080,
+    1px 1px #000080, -1px -1px #000080, 1px -1px #000080, -1px 1px #000080;
+}
